@@ -1,0 +1,12 @@
+body {
+  background: #eda;
+  color: #311;
+  font-family: 'Goudy Bookletter 1911', serif;
+  font-size: 18pt;
+  font-size-adjust: 1.0;
+  text-align: center;
+}
+h1 { font: 48pt rivanna; margin: 8pt; }
+h2 { font: 32pt rivanna; margin: 2pt; }
+h3 { font: 24pt rivanna; margin: 2pt; }
+div { display: inline-block; margin: 8pt; }
